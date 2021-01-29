@@ -77,4 +77,4 @@ function calcTime(deadline) {
     return [days, hours, minutes, unusedSeconds];
 }
 
-export { clock
+export { clock }
