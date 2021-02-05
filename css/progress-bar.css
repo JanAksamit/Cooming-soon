@@ -13,6 +13,7 @@
 .progress-bar > .texts > .label {
     display: inline-block;
     float: left;}
+    
 .progress-bar > .texts > .value {
     display: inline-block;
     float: right;
