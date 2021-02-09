@@ -11,9 +11,7 @@ const socialsData = [
         icon: 'hantelis',
         href: '#'
     },
-    4151,
-    'adsfdg',
-    [],
+   
     {
         icon: 'dribbble',
         href: '#'
