@@ -2,14 +2,19 @@
     display: inline-block;
     width: 100%;
 }
+.form > label {
+    display: inline-block;
+    float: left;
+    font-size: 0;
+}
 .form > input,
 .form > textarea {
     display: inline-block;
     width: 100%;
     padding: 10px 2px;
     margin-bottom: 20px;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 24px;
     border: none;
     border-bottom: 2px solid #ccc;
     background-color: transparent;
@@ -17,10 +22,6 @@
     outline: none;
 }
 .form > textarea {
-    min-height: 92px;
+    min-height: 94px;
     max-height: 262px;
 }
-.form > button {
-    display: inline-block;
-}
-

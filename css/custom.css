@@ -7,7 +7,7 @@
 /* hero section */
 
 .hero {
-    min-height: 70vh;
+    min-height: 100vh;
     text-align: center;
     padding-bottom: 30px;
     background-image: url(../img/background.jpg);
